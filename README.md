@@ -38,6 +38,6 @@ Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certi
 ### 📫 ¿Dónde me encuentras?
 - [Instagram](https://instagram.com/sebacarrillos) 
 - [LinkedIn](https://www.linkedin.com/in/sebacarrillos)
-- GMail: sebastiancarrillosaldias@gmail.com
+- Gmail: sebastiancarrillosaldias@gmail.com
 
 Siempre estoy dispuesto a nuevos desafíos, por lo que si tienen alguna duda, pueden hacérmela llegar a mi correo electrónico.
