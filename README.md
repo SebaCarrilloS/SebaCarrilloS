@@ -2,7 +2,7 @@
 
 Ingeniero Civil Mecánico con formación en Data Science y experiencia en análisis de datos, machine learning y herramientas de visualización. Hábil en SQL, Python y Tableau, con un sólido entendimiento de Business Analytics y Big Data. Apasionado por transformar datos en información valiosa para la toma de decisiones empresariales.
 
-En mis tiempos libres me dedico la fotografía, estudiar patrimonio, leer historia del arte, historia universal y reportajes y conocer mi ciudad.
+En mis tiempos libres me dedico la fotografía, estudiar patrimonio, leer historia del arte, historia universal y reportajes y conocer mi ciudad. También estoy interesado en aprender idiomas, sobretodo perfeccionar mi inglés y aprender un poco de francés (y eventualmente alemán).
 
 ### 🏭 ¿Dónde he trabajado?
 
@@ -28,6 +28,10 @@ He realizado una serie de cursos para mi perfeccionamiento como profesional. Te 
 - [Spark and Python for Big Data with PySpark, Udemy, 2024](https://www.udemy.com/certificate/UC-19514448-45a3-4be7-a9b9-4f64d736cc55/)
 - [Master AWS with Python and Boto3](https://www.udemy.com/certificate/UC-7727df10-70bd-4917-bb59-396c3ab0073a/)
 
+
+### ¿Qué idiomas hablo?
+
+Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certificado por EF SET](https://cert.efset.org/XGymU3).
 
 ### ⚡Cómo describirme en una línea? 
 - Me considero una persona apasionada por aprender ciencia de datos e inteligencia artificial, y siempre tengo motivación para salir adelante.
