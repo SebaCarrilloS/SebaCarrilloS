@@ -29,18 +29,15 @@ He realizado una serie de cursos para mi perfeccionamiento como profesional. Te 
 - [Master AWS with Python and Boto3](https://www.udemy.com/certificate/UC-7727df10-70bd-4917-bb59-396c3ab0073a/)
 
 
-### ¿Qué idiomas hablo?
-
+### 🗣️¿Qué idiomas hablo? 
 Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certificado por EF SET](https://cert.efset.org/XGymU3).
 
 ### ⚡Cómo describirme en una línea? 
 - Me considero una persona apasionada por aprender ciencia de datos e inteligencia artificial, y siempre tengo motivación para salir adelante.
 
-### 📫 How to reach me?
+### 📫 ¿Dónde me encuentras?
 - [Instagram](https://instagram.com/sebacarrillos) 
 - [LinkedIn](https://www.linkedin.com/in/sebacarrillos)
 - GMail: sebastiancarrillosaldias@gmail.com
 
 Siempre estoy dispuesto a nuevos desafíos, por lo que si tienen alguna duda, pueden hacérmela llegar a mi correo electrónico.
-
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience , collaborate🤝 and build amazing products 🏭for the world🌍!
