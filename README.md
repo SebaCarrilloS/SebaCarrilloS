@@ -24,7 +24,7 @@ Titulado con Distinción.
 - Encargado de Ventas de RDI S.A., dedicada a elaboración de equipos para minería, elaborando propuestas técnicas basadas en el análisis de datos
 - Elaboración de informes técnicos a clientes, utilizando herramientas de visualización de datos.
 
-### 🌱 Qué cursos he realizado?
+## 🌱 Qué cursos he realizado?
 
 He realizado una serie de cursos para mi perfeccionamiento como profesional. Aquí dejo un pequeño listado de ellos (son bastantes más, pero muestro los más importantes).
 
@@ -36,13 +36,13 @@ He realizado una serie de cursos para mi perfeccionamiento como profesional. Aqu
 - [Master AWS with Python and Boto3](https://www.udemy.com/certificate/UC-7727df10-70bd-4917-bb59-396c3ab0073a/)
 
 
-### 🗣️¿Qué idiomas hablo? 
+## 🗣️¿Qué idiomas hablo? 
 Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certificado por EF SET](https://cert.efset.org/XGymU3).
 
-### ⚡Cómo describirme en una línea? 
+## ⚡Cómo describirme en una línea? 
 - Me considero una persona apasionada por aprender ciencia de datos e inteligencia artificial, y siempre tengo motivación para salir adelante.
 
-### 📫 ¿Dónde me encuentras?
+## 📫 ¿Dónde me encuentras?
 - [Instagram](https://instagram.com/sebacarrillos) 
 - [LinkedIn](https://www.linkedin.com/in/sebacarrillos)
 - Gmail: sebastiancarrillosaldias@gmail.com
