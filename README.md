@@ -7,7 +7,7 @@ En mis tiempos libres me dedico la fotografía, estudiar patrimonio, leer histor
 ## 👨🏻‍🎓Formación académica
 
 
--Ingeniero Civil Mecánico, Universidad de Chile, 2019
+- Ingeniero Civil Mecánico, Universidad de Chile, 2019
 Titulado con Distinción.
 - Data Science, Desafío Latam Chile, 2024
 
