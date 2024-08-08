@@ -13,13 +13,13 @@ Titulado con Distinción.
 
 ## 🏭 ¿Dónde he trabajado?
 
-### Ingeniero de Especificación y Ventas, 08/2021 - 12/2022
+### Ingeniero de Especificación, 08/2021 - 12/2022
 
 - Responsable de la venta y especificación técnica del área de estanques y vial.
 - Coordinación de reuniones de mejora continua, usando análisis de datos para identificar oportunidades de mejora.
 - Realización de estudios de mercado y gestión de proyectos, aplicando técnicas de análisis de datos para evaluar el potencial de ventas.
   
-### Ingeniero de Ventas, 01/2023 – 11/23. RDI S.A. – La Reina, Santiago.
+### Ingeniero de Especificación, 01/2023 – 11/23. RDI S.A. – La Reina, Santiago.
 
 - Encargado de Ventas de RDI S.A., dedicada a elaboración de equipos para minería, elaborando propuestas técnicas basadas en el análisis de datos
 - Elaboración de informes técnicos a clientes, utilizando herramientas de visualización de datos.
