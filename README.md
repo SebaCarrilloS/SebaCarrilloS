@@ -19,7 +19,7 @@ Titulado con Distinción.
 - Coordinación de reuniones de mejora continua, usando análisis de datos para identificar oportunidades de mejora.
 - Realización de estudios de mercado y gestión de proyectos, aplicando técnicas de análisis de datos para evaluar el potencial de ventas.
   
-### Ingeniero de Especificación, 01/2023 – 11/23. RDI S.A. – La Reina, Santiago.
+### Ingeniero de Especificación, 01/2023 – 12/23. RDI S.A. – La Reina, Santiago.
 
 - Encargado de Ventas de RDI S.A., dedicada a elaboración de equipos para minería, elaborando propuestas técnicas basadas en el análisis de datos
 - Elaboración de informes técnicos a clientes, utilizando herramientas de visualización de datos.
