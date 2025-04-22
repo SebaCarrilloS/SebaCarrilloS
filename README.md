@@ -1,6 +1,6 @@
 # Soy Sebastián Carrillo, Cientista de Datos👋
 
-Ingeniero Civil Mecánico con formación en Data Science y experiencia en análisis de datos, machine learning y herramientas de visualización. Hábil en SQL, Python y Tableau, con un sólido entendimiento de Business Analytics y Big Data. Apasionado por transformar datos en información valiosa para la toma de decisiones empresariales.
+Ingeniero Civil Mecánico de la Universidad de Chile, con experiencia en ciencia de datos y proyectos de mejora continua. Manejo avanzado de Python, SQL y herramientas de visualización como Tableau, orientado a optimizar procesos y generar insights accionables para la toma de decisiones. Fuerte capacidad analítica, mirada sistémica, visión de negocios y compromiso con la excelencia operacional y la mejora continua.
 
 En mis tiempos libres me dedico la fotografía, estudiar patrimonio, leer historia del arte, historia universal y reportajes y conocer mi ciudad. También estoy interesado en aprender idiomas, sobretodo perfeccionar mi inglés y aprender un poco de francés (y eventualmente alemán).
 
@@ -13,16 +13,24 @@ Titulado con Distinción.
 
 ## 🏭 ¿Dónde he trabajado?
 
-### Ingeniero de Especificación, 08/2021 - 12/2022
+### Data Analyst (contrato por proyecto) – Symnetics S.A. -  Las Condes, Santiago.
 
-- Responsable de la venta y especificación técnica del área de estanques y vial.
-- Coordinación de reuniones de mejora continua, usando análisis de datos para identificar oportunidades de mejora.
-- Realización de estudios de mercado y gestión de proyectos, aplicando técnicas de análisis de datos para evaluar el potencial de ventas.
+- Rol como especialista en análisis de datos y mejora continua, liderando el desarrollo de soluciones avanzadas en Data Science aplicadas a procesos comerciales y operativos.
+- Diseño e implementación de modelos de predicción de demanda y sugeridos de compra, generando insights clave para la toma de decisiones.
+- Desarrollo de dashboards analíticos, automatización de cotizaciones y puesta en marcha de herramientas como chatbot interno.
+- Elaboración de propuestas de gestión de activos y planificación de servicios, integrando análisis de mantenibilidad y confiabilidad en proyectos de inversión.
   
 ### Ingeniero de Especificación, 01/2023 – 12/23. RDI S.A. – La Reina, Santiago.
 
-- Encargado de Ventas de RDI S.A., dedicada a elaboración de equipos para minería, elaborando propuestas técnicas basadas en el análisis de datos
-- Elaboración de informes técnicos a clientes, utilizando herramientas de visualización de datos.
+- Implementación de soluciones de ingeniería centradas en análisis de datos para mejorar la planificación y ejecución de proyectos.
+- Desarrollo de algoritmos predictivos para proyectar ventas y apoyar la planificación estratégica.
+- Apoyo a iniciativas de eficiencia operativa mediante análisis cuantitativos de maquinaria de clientes.
+
+### Ingeniero de Especificación, 08/2021 - 12/2022, Tecnovial S.A. - Maipú, Santiago
+
+- Encargado de especificación técnica y proyección económica en proyectos de infraestructura, utilizando herramientas de Big Data y simulación.
+- Líder en la elaboración de procesos de mejora continua de la empresa, generando reuniones y proponiendo mejoras sustentadas en análisis de datos.
+- Ejecución de estudios de mercado, estrategias de captación de clientes y gestión de proyectos técnico-comerciales.
 
 ## 🌱 Qué cursos he realizado?
 
@@ -43,7 +51,6 @@ Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certi
 - Me considero una persona apasionada por aprender ciencia de datos e inteligencia artificial, y siempre tengo motivación para salir adelante.
 
 ## 📫 ¿Dónde me encuentras?
-- [Instagram](https://instagram.com/sebacarrillos) 
 - [LinkedIn](https://www.linkedin.com/in/sebacarrillos)
 - Gmail: sebastiancarrillosaldias@gmail.com
 
