@@ -13,6 +13,14 @@ Titulado con Distinción.
 
 ## 🏭 ¿Dónde he trabajado?
 
+### Ingeniero C+ Terreno – Metaproject S.A. (Contratista Codelco RT)
+
+-	Rol como especialista en análisis de datos y mejora continua para división Radomiro Tomic, Codelco.
+-	Generación y trabajo con dashboards a través de Power BI, además de informes C+ mensuales y semanales presentados a los distintos agentes de cambio de la división, tanto de las pérdidas ocurridas en la mina como de trabajos internos de la Dirección de Excelencia Operacional.
+-	Manejo de BB.DD. tanto del sistema de ideas como de las Resoluciones de Problemas (RdPs) manejadas en la división. Carga de actividades mensuales a división completa.
+
+
+
 ### Data Analyst (contrato por proyecto) – Symnetics S.A. -  Las Condes, Santiago.
 
 - Rol como especialista en análisis de datos y mejora continua, liderando el desarrollo de soluciones avanzadas en Data Science aplicadas a procesos comerciales y operativos.
