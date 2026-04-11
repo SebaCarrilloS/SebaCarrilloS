@@ -1,5 +1,8 @@
 # Soy Sebastián Carrillo, Cientista de Datos👋
 
+![visitors](https://komarev.com/ghpvc/?username=SebaCarrilloS&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaCarrilloS&show_icons=true&theme=default)
+
 Ingeniero Civil Mecánico de la Universidad de Chile, con experiencia en ciencia de datos y proyectos de mejora continua. Manejo avanzado de Python, SQL y herramientas de visualización como Tableau, orientado a optimizar procesos y generar insights accionables para la toma de decisiones. Fuerte capacidad analítica, mirada sistémica, visión de negocios y compromiso con la excelencia operacional y la mejora continua.
 
 En mis tiempos libres me dedico la fotografía, estudiar patrimonio, leer historia del arte, historia universal y reportajes y conocer mi ciudad. También estoy interesado en aprender idiomas, sobretodo perfeccionar mi inglés y aprender un poco de francés (y eventualmente alemán).
