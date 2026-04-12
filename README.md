@@ -4,7 +4,7 @@
 
 Especialista en análisis de datos y machine learning aplicado a la optimización de decisiones en entornos reales (minería, retail y operaciones).
 
-Mi enfoque es transformar datos en decisiones accionables, no solo generar modelos predictivos. Me interesa especialmente trabajar en problemas donde la data permite tomar mejores decisiones, no solo generar predicciones.
+Trabajo con datos y machine learning para entender problemas reales y diseñar soluciones que permitan tomar mejores decisiones.
 
 Fuera del ámbito profesional, me interesa la fotografía, la historia del arte, el deporte y el aprendizaje de idiomas.
 
@@ -28,7 +28,7 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 - 🏡 **[Predicción de Precios Airbnb](https://github.com/SebaCarrilloS/Proyecto-Airb-bSantiago)**  
   Modelos de series de tiempo para pricing dinámico.
 
-## 👨🏻‍🎓Formación académica
+## 🎓 Formación académica
 
 - Ingeniero Civil Mecánico, Universidad de Chile, 2019
 Titulado con Distinción.
@@ -40,10 +40,10 @@ Titulado con Distinción.
 
 ### Ingeniero C+ Terreno – Metaproject S.A. (Contratista Codelco RT)
 
--	Rol como especialista en análisis de datos y mejora continua para división Radomiro Tomic, Codelco.
--	Generación y trabajo con dashboards a través de Power BI, además de informes C+ mensuales y semanales presentados a los distintos agentes de cambio de la división, tanto de las pérdidas ocurridas en la mina como de trabajos internos de la Dirección de Excelencia Operacional.
--	Manejo de BB.DD. tanto del sistema de ideas como de las Resoluciones de Problemas (RdPs) manejadas en la división. Carga de actividades mensuales a división completa.
-
+- Desarrollo de dashboards en Power BI para identificar pérdidas operacionales críticas en la mina.
+- Automatización de reportes C+ semanales y mensuales, mejorando la toma de decisiones de los agentes de cambio.
+- Análisis de datos de detenciones y desempeño de equipos para priorización de mejoras operacionales.
+- 
 ### Data Analyst (contrato por proyecto) – Symnetics S.A. -  Las Condes, Santiago.
 
 - Rol como especialista en análisis de datos y mejora continua, liderando el desarrollo de soluciones avanzadas en Data Science aplicadas a procesos comerciales y operativos.
@@ -77,9 +77,6 @@ He realizado una serie de cursos para mi perfeccionamiento como profesional. Aqu
 
 ## 🗣️¿Qué idiomas hablo? 
 Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certificado por EF SET](https://cert.efset.org/XGymU3).
-
-## ⚡Cómo describirme en una línea? 
-- Me considero una persona apasionada por aprender ciencia de datos e inteligencia artificial, y siempre tengo motivación para salir adelante.
 
 ## 📫 ¿Dónde me encuentras?
 - [LinkedIn](https://www.linkedin.com/in/sebacarrillos)
