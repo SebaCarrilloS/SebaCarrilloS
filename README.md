@@ -1,7 +1,7 @@
 # Soy Sebastián Carrillo, Cientista de Datos👋
 
 ![visitors](https://komarev.com/ghpvc/?username=SebaCarrilloS&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaCarrilloS&show_icons=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaCarrilloS&show_icons=true&theme=default&hide_border=true)
 
 Especialista en análisis de datos y machine learning aplicado a la optimización de decisiones en entornos reales (minería, retail y operaciones).
 
