@@ -18,6 +18,9 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 
 - 📈 **[Uplift Modeling (Causal Machine Learning)](https://github.com/SebaCarrilloS/Proyecto-Optimizacion-Correos)**  
   Identificación de clientes persuadibles y optimización de decisiones de intervención en campañas.
+
+- 📦 **[Optimización de Inventario bajo Incertidumbre](https://github.com/SebaCarrilloS/Problema-inventario-incertidumbre)**  
+  Simulación Monte Carlo y optimización para decisiones de inventario, balanceando costo y riesgo operacional.
     
 - ⚙️ **[Optimización de Mantenimiento](https://github.com/SebaCarrilloS/Problema-Mantenimiento)**  
   Priorización de equipos y reducción de costos en minería a partir de datos operacionales.
@@ -27,7 +30,7 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 
 - 🏡 **[Predicción de Precios Airbnb](https://github.com/SebaCarrilloS/Proyecto-Airb-bSantiago)**  
   Modelos de series de tiempo para pricing dinámico.
-
+  
 ## 🎓 Formación académica
 
 - Ingeniero Civil Mecánico, Universidad de Chile, 2019
