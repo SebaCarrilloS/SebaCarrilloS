@@ -1,34 +1,49 @@
 # Soy Sebastián Carrillo, Cientista de Datos👋
 
 ![visitors](https://komarev.com/ghpvc/?username=SebaCarrilloS&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaCarrilloS&show_icons=true)
 
-Ingeniero Civil Mecánico de la Universidad de Chile, con experiencia en ciencia de datos y proyectos de mejora continua. Manejo avanzado de Python, SQL y herramientas de visualización como Tableau, orientado a optimizar procesos y generar insights accionables para la toma de decisiones. Fuerte capacidad analítica, mirada sistémica, visión de negocios y compromiso con la excelencia operacional y la mejora continua.
+Especialista en análisis de datos y machine learning aplicado a la optimización de decisiones en entornos reales (minería, retail y operaciones).
 
-En mis tiempos libres me dedico la fotografía, estudiar patrimonio, leer historia del arte, historia universal y reportajes y conocer mi ciudad. También estoy interesado en aprender idiomas, sobretodo perfeccionar mi inglés y aprender un poco de francés (y eventualmente alemán).
+Mi enfoque es transformar datos en decisiones accionables, no solo generar modelos predictivos. Me interesa especialmente trabajar en problemas donde la data permite tomar mejores decisiones, no solo generar predicciones.
+
+Fuera del ámbito profesional, me interesa la fotografía, la historia del arte, el deporte y el aprendizaje de idiomas.
+
+## 📊 Perfil
+
+- +3 años de experiencia en análisis de datos
+- Experiencia en minería (Codelco RT)
+- Enfoque en optimización de decisiones con datos
+
+## 🚀 Proyectos Destacados
+
+- 📈 **[Uplift Modeling (Causal Machine Learning)](https://github.com/SebaCarrilloS/Proyecto-Optimizacion-Correos)**  
+  Identificación de clientes persuadibles y optimización de decisiones de intervención en campañas.
+    
+- ⚙️ **[Optimización de Mantenimiento](https://github.com/SebaCarrilloS/Problema-Mantenimiento)**  
+  Priorización de equipos y reducción de costos en minería a partir de datos operacionales.
+
+- 🔍 **[Detección de Fraude](https://github.com/SebaCarrilloS/Proyecto-Deteccion-Fraude)**  
+  Modelo de priorización de transacciones basado en riesgo (PR-AUC, top-k precision).
+
+- 🏡 **[Predicción de Precios Airbnb](https://github.com/SebaCarrilloS/Proyecto-Airb-bSantiago)**  
+  Modelos de series de tiempo para pricing dinámico.
 
 ## 👨🏻‍🎓Formación académica
-
 
 - Ingeniero Civil Mecánico, Universidad de Chile, 2019
 Titulado con Distinción.
 - Data Science, Desafío Latam Chile, 2024
 
-## 🚀 Proyectos Destacados
 
-- 🔍 Detección de Fraude (Machine Learning + Priorización)
-- 🏡 Predicción de Precios Airbnb (Time Series + LSTM)
-- ⚙️ Optimización de Mantenimiento (Minería)
-- 📈 Uplift Modeling (Causal ML - Marketing)
 
-## 🏭 ¿Dónde he trabajado?
+## 🏭 Experiencia Laboral
 
 ### Ingeniero C+ Terreno – Metaproject S.A. (Contratista Codelco RT)
 
 -	Rol como especialista en análisis de datos y mejora continua para división Radomiro Tomic, Codelco.
 -	Generación y trabajo con dashboards a través de Power BI, además de informes C+ mensuales y semanales presentados a los distintos agentes de cambio de la división, tanto de las pérdidas ocurridas en la mina como de trabajos internos de la Dirección de Excelencia Operacional.
 -	Manejo de BB.DD. tanto del sistema de ideas como de las Resoluciones de Problemas (RdPs) manejadas en la división. Carga de actividades mensuales a división completa.
-
-
 
 ### Data Analyst (contrato por proyecto) – Symnetics S.A. -  Las Condes, Santiago.
 
@@ -49,7 +64,7 @@ Titulado con Distinción.
 - Líder en la elaboración de procesos de mejora continua de la empresa, generando reuniones y proponiendo mejoras sustentadas en análisis de datos.
 - Ejecución de estudios de mercado, estrategias de captación de clientes y gestión de proyectos técnico-comerciales.
 
-## 🌱 Qué cursos he realizado?
+## 📚 Cursos relevantes
 
 He realizado una serie de cursos para mi perfeccionamiento como profesional. Aquí dejo un pequeño listado de ellos (son bastantes más, pero muestro los más importantes).
 
@@ -73,7 +88,15 @@ Mi lengua nativa es el español, pero también poseo nivel C2 en inglés, [certi
 
 Siempre estoy dispuesto a nuevos desafíos, por lo que si tienen alguna duda, pueden hacérmela llegar a mi correo electrónico.
 
+## 📊 En qué me enfoco
 
-<h3 align="left">Lenguajes y herramientas computacionales que manejo:</h3>
+- Machine Learning aplicado a decisiones
+- Optimización de procesos operacionales
+- Análisis de datos en entornos reales
+- Causal Machine Learning (Uplift Modeling)
+
+## 🛠️ Tecnologías y herramientas
+
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 
