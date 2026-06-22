@@ -25,6 +25,9 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 - ⚙️ **[Optimización de Mantenimiento](https://github.com/SebaCarrilloS/Problema-Mantenimiento)**  
   Priorización de equipos y reducción de costos en minería a partir de datos operacionales.
 
+- 🏭 **[Dashboard de Mantenimiento Predictivo en Power BI](https://github.com/SebaCarrilloS/Dashboard-Mantenimiento-Predictivo-PowerBI)**  
+  Dashboard ejecutivo para gestión de activos físicos, análisis de riesgo, Health Index, RUL y priorización de intervención. Proyecto desarrollado en Power BI con DAX, Power Query, navegación interactiva, segmentadores sincronizados y visualización orientada a decisiones de mantenimiento.
+
 - 🔍 **[Detección de Fraude](https://github.com/SebaCarrilloS/Proyecto-Deteccion-Fraude)**  
   Modelo de priorización de transacciones basado en riesgo (PR-AUC, top-k precision).
 
