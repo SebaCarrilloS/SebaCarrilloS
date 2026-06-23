@@ -10,7 +10,7 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 
 ## 📊 Perfil
 
-- +3 años de experiencia en análisis de datos
+- 4+ años de experiencia en análisis de datos
 - Experiencia en minería (Codelco RT)
 - Enfoque en optimización de decisiones con datos
 
