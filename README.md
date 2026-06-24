@@ -57,7 +57,7 @@ Titulado con Distinción.
 - Desarrollo de dashboards analíticos, automatización de cotizaciones y puesta en marcha de herramientas como chatbot interno.
 - Elaboración de propuestas de gestión de activos y planificación de servicios, integrando análisis de mantenibilidad y confiabilidad en proyectos de inversión.
   
-### Ingeniero de Especificación, 01/2023 – 12/23. RDI S.A. – La Reina, Santiago.
+### Ingeniero de Especificación, 01/2023 – 09/24. RDI S.A. – La Reina, Santiago.
 
 - Implementación de soluciones de ingeniería centradas en análisis de datos para mejorar la planificación y ejecución de proyectos.
 - Desarrollo de algoritmos predictivos para proyectar ventas y apoyar la planificación estratégica.
