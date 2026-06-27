@@ -14,25 +14,23 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 - Experiencia en minería (Codelco RT)
 - Enfoque en optimización de decisiones con datos
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Aplicados
 
-- 📈 **[Uplift Modeling (Causal Machine Learning)](https://github.com/SebaCarrilloS/Proyecto-Optimizacion-Correos)**  
-  Identificación de clientes persuadibles y optimización de decisiones de intervención en campañas.
-
-- 📦 **[Optimización de Inventario bajo Incertidumbre](https://github.com/SebaCarrilloS/Problema-inventario-incertidumbre)**  
-  Simulación Monte Carlo y optimización para decisiones de inventario, balanceando costo y riesgo operacional.
+- 📈 **[Análisis de Campañas y Segmentación de Clientes](https://github.com/SebaCarrilloS/Proyecto-Optimizacion-Correos)**  
+  Proyecto aplicado para identificar clientes con mayor probabilidad de responder positivamente a una intervención comercial, usando técnicas de modelamiento causal y evaluación de impacto.
+- 📦 **[Análisis de Inventario bajo Incertidumbre](https://github.com/SebaCarrilloS/Problema-inventario-incertidumbre)**  
+  Simulación y análisis de escenarios para apoyar decisiones de inventario, considerando variabilidad de la demanda, costos asociados y riesgo operacional.
     
-- ⚙️ **[Optimización de Mantenimiento](https://github.com/SebaCarrilloS/Problema-Mantenimiento)**  
-  Priorización de equipos y reducción de costos en minería a partir de datos operacionales.
+- ⚙️ **[Análisis de Mantenimiento y Priorización de Equipos](https://github.com/SebaCarrilloS/Problema-Mantenimiento)**  
+  Análisis de datos operacionales para priorizar equipos, identificar focos de costo y apoyar decisiones de mantenimiento en un contexto minero.
 
-- 🏭 **[Dashboard de Mantenimiento Predictivo en Power BI](https://github.com/SebaCarrilloS/Dashboard-Mantenimiento-Predictivo-PowerBI)**  
-  Dashboard ejecutivo para gestión de activos físicos, análisis de riesgo, Health Index, RUL y priorización de intervención. Proyecto desarrollado en Power BI con DAX, Power Query, navegación interactiva, segmentadores sincronizados y visualización orientada a decisiones de mantenimiento.
+- 🏭 **[Dashboard de Gestión de Mantenimiento en Power BI](https://github.com/SebaCarrilloS/Dashboard-Mantenimiento-Predictivo-PowerBI)**  
+  Dashboard ejecutivo orientado a gestión de activos físicos, con indicadores de riesgo, criticidad, salud de equipos y priorización de intervención. Proyecto desarrollado en Power BI con DAX, Power Query, navegación interactiva, segmentadores y visualización enfocada en decisiones de mantenimiento.
+- 🔍 **[Análisis de Riesgo en Transacciones](https://github.com/SebaCarrilloS/Proyecto-Deteccion-Fraude)**  
+  Proyecto de clasificación y priorización de transacciones con enfoque en detección de patrones de riesgo, evaluación mediante métricas adecuadas para clases desbalanceadas y generación de rankings de revisión.
 
-- 🔍 **[Detección de Fraude](https://github.com/SebaCarrilloS/Proyecto-Deteccion-Fraude)**  
-  Modelo de priorización de transacciones basado en riesgo (PR-AUC, top-k precision).
-
-- 🏡 **[Predicción de Precios Airbnb](https://github.com/SebaCarrilloS/Proyecto-Airb-bSantiago)**  
-  Modelos de series de tiempo para pricing dinámico.
+- 🏡 **[Análisis de Precios de Airbnb en Santiago](https://github.com/SebaCarrilloS/Proyecto-Airb-bSantiago)**  
+  Análisis exploratorio y modelamiento de precios de alojamientos en Santiago, considerando variables relevantes del mercado y técnicas de predicción para apoyar decisiones de pricing.
   
 ## 🎓 Formación académica
 
