@@ -24,8 +24,11 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 - Automatización de reportes y procesos analíticos.
 - Aplicaciones en minería, retail, logística, mantenimiento, economía y operaciones.
   
-## 🚀 Proyectos Aplicados
+## 🚀 Proyectos Aplicados Destacados
 
+- 💼 **[Analítica Financiera de Riesgo y Rentabilidad](https://github.com/SebaCarrilloS/Problema-analitica-financiera-riesgo)**  
+  Proyecto aplicado para analizar riesgo crediticio, rentabilidad y desempeño financiero, integrando dashboard en Power BI, modelo predictivo e indicadores para priorización de clientes.
+  
 - 📈 **[Análisis de Campañas y Segmentación de Clientes](https://github.com/SebaCarrilloS/Proyecto-Optimizacion-Correos)**  
   Proyecto aplicado para analizar campañas comerciales, segmentar clientes e identificar perfiles con mayor probabilidad de responder positivamente a una intervención.
   
