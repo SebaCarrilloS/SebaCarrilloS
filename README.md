@@ -44,8 +44,6 @@ Fuera del ámbito profesional, me interesa la fotografía, la historia del arte,
 - 🔍 **[Análisis de Riesgo en Transacciones](https://github.com/SebaCarrilloS/Proyecto-Deteccion-Fraude)**  
   Proyecto de clasificación y priorización de transacciones con enfoque en detección de patrones de riesgo, evaluación mediante métricas adecuadas para clases desbalanceadas y generación de rankings de revisión.
 
-- 🏡 **[Análisis de Precios de Airbnb en Santiago](https://github.com/SebaCarrilloS/Proyecto-Airb-bSantiago)**  
-  Análisis exploratorio y modelamiento de precios de alojamientos en Santiago, considerando variables relevantes del mercado y técnicas de predicción para apoyar decisiones de pricing.
   
 ## 🎓 Formación académica
 
